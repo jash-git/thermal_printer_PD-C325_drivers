@@ -2,6 +2,7 @@ Windows11 熱敏印表機PD-C325 相關確定可用驅動(thermal_printer_PD-C32
 
 資料來源: https://www.oneping.com.tw/fileDownload.htm#pl2303%20driver [USB to RS232] [19200,n,8,1]
 http://yuju.com.tw/download.asp?DKIND=17  [PD-C325 驅動程式]
+https://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41&showlevel=0017-0037-0041
 
 其它收藏
     EZ100PU驅動程式 - 讀卡機使用範圍
